@@ -1,0 +1,61 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .card {
+        padding: 30px;
+        border-radius: 20px;
+        box-shadow: 2px 11px 46px 5px rgba(0, 0, 0, 0.75);
+    }
+    
+    h2 {
+        text-transform: uppercase;
+        margin-bottom: 40px;
+    }
+    
+    img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        display: inline;
+        margin: auto;
+    }
+    
+    .person {
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 0;
+    }
+    
+    .designation {
+        letter-spacing: 1px;
+        color: blueviolet;
+        font-weight: bold;
+    }
+    
+    .button {
+        width: 200px;
+        margin: auto;
+        margin-bottom: 20px;
+        color: brown;
+        font-weight: bold;
+    }
+    
+    .fa-solid {
+        margin: 0 10px;
+        cursor: pointer;
+    }
+    /* Counter */
+    
+    #value {
+        font-size: 60px;
+        font-weight: bold;
+    }
+    
+    .btn {
+        border: 1px solid greenyellow;
+    }
